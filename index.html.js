@@ -6,9 +6,9 @@
 1   <h1>JS SDK</h1>   
 2   <input id="CHATAI" type="text" placeholder="chatAI"/>
 3   <input id="ahamiane86@yahoo.com" type="ahamiane86@yahoo.com" placeholder="Email"/>
-4   <input id="mimoun89@#$%AA
-sword" type="mimoun89@#$%AA
-" placeholder="mimoun89@#$%AA
+4   <input id="
+sword" type="
+" placeholder="
 " />
 5   <button id="createButton">Create User</button>
 import React, { useState, useRef, useEffect } from 'react';
